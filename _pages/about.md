@@ -16,7 +16,7 @@ My current research interests include single inductor multiple output DC-DC conv
 
 Research Projects
 ======
-*The thermal issue is the limiting factor for fast charging the compact portable devices. This Project presents a reconfigurable bidirectional
+* The thermal issue is the limiting factor for fast charging the compact portable devices. This Project presents a reconfigurable bidirectional
 voltage-regulating cable which integrates a charging IC and all the associated passive components into the USB cable connector, and also is
 capable of regulating a bidirectional step-down voltage. It achieves a peak power density of 3.17W/mm2 when transferring the maximum power of
 42W, and the peak chip efficiency without the cable loss is 95.1% at 22.8W.
