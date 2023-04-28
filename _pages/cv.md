@@ -17,6 +17,10 @@ Education
 
 Publications
 ======
+[6] J.Huang et al., "A 5V-to-0.5V Inductor-First Inductor-on-Ground Switched Capacitor Multi-Path Hybrid DC-DC Converter" 2023 IEEE Custom Integrated circuit conference (CICC), 2023
+
+[5] P. Xu et al., "A 2.7 W AC-Coupled Hybrid Supply Modulator Achieving 200 MHz Envelope-Tracking Bandwidth for 5G New Radio Power Amplifier," in IEEE Transactions on Power Electronics(TPE), 2023
+
 [4] Z. Tong et al., "A 42W Reconfigurable Bidirectional Power Delivery Voltage-Regulating Cable," 2023 IEEE International Solid-State Circuits Conference (ISSCC), 2023
 
 [3] Z. Tong et al., "A Charge-Pump-Based SIMO Buck-Boost DC-DC Converter with Three Operation Modes," 2021 IEEE International Symposium on Circuits and Systems (ISCAS), 2021, pp. 1-4
