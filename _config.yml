@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhiguo Tong"
+title                    : "Zhiguo Tong's Personal Web"
 title_separator          : "-"
 name                     : &name "Zhiguo Tong"
-description              : &description "Ph.D. Student at the University of Macau"
+description              : &description "Power Management IC design"
 url                      : https://zgtong14.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zgtong14.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Zhiguo Tong"
   avatar           : "Profile.jpg"
-  bio              : "Ph.D. Student at the Univerisity of Macau"
-  location         : "Macau"
+  bio              : "Ph.D. Degree in Power Management IC Design"
+  location         : "Macau SAR, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=3_I6bksAAAAJ&hl=en"
+  email            : zgtong18@fudan.edu.cn
+  researchgate     : "https://www.researchgate.net/profile/Zhiguo-Tong/research"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
