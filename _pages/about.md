@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hello, welcome to my personal web home!
 
-I'm an **Electrical Engineer Researcher in Power Management IC Design**. My research work mainly focuses on high-efficiency, high-density power delivery architectures and circuits for electronic systems like humanoid robots and high-performance computing. I just got my Ph.D. Degree from the Laboratory of Analog and Mixed-Signal VLSI, University of Macau in 2024. 
+I'm an **Electrical Engineer Researcher in Power Management IC Design**. My research mainly focuses on high-efficiency, high-density power delivery architectures and circuits for electronic systems like humanoid robots and high-performance computing. I just got my Ph.D. Degree from the Laboratory of Analog and Mixed-Signal VLSI, University of Macau in 2024. 
 
 * Education Experience: I received the **B.E. degree from Tianjin University**, Tianjin, China, in 2018 and the **M.Sc. degree from Fudan University**, Shanghai, China, in 2021. In the summer of 2024, I was a Visiting Scholar with the IMS-MX Group, Leibniz University Hannover, Germany. 
 
